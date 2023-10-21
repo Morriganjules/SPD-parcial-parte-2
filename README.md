@@ -85,5 +85,7 @@ bool esPrimo(int numero) {
 
 ```
 
-## Link del proyecto
-[Proyecto tinkecad](https://www.tinkercad.com/things/4WsAZ39J9mx-parcial-parte-dos-motor-cc/editel?sharecode=8F4m-_ncoo5xw4Oo_pIDOFmKIaGpHZ14in-CZYM6J4E)
+## Link a las partes del proyecto
+- [Proyecto tinkecad parte 1](https://www.tinkercad.com/things/5iz93c2jmh9-parcial-parte-1-/editel?sharecode=QYWzCuwdfJBvA7Sbo7mJ39WblqAxKO_rH9pPV3BmdcY)
+
+- [Proyecto tinkecad parte 2](https://www.tinkercad.com/things/4WsAZ39J9mx-parcial-parte-dos-motor-cc/editel?sharecode=8F4m-_ncoo5xw4Oo_pIDOFmKIaGpHZ14in-CZYM6J4E)
